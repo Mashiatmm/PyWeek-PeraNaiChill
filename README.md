@@ -1,5 +1,7 @@
 # PyWeek-PeraNaiChill
 
+Visuals - https://github.com/Mashiatmm/PyWeek-PeraNaiChill/blob/master/PyWeek%20Game.pdf
+
 ## How to play the game
 Make Sure You have Pygame installed in your virtual environment(requirements.txt). Clone this repository and run the main.py script, the game will start.
 The charecter name is Pera. Player has to play 4 games to help Pera get out the island.
